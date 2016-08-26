@@ -1,0 +1,12 @@
+{
+    "name": "inggo/wp-bulk-meta-edit",
+    "description": "Bulk edit meta fields in WordPress Users/Posts admin tables.",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Inggo Espinosa",
+            "email": "inggo.espinosa@gmail.com"
+        }
+    ],
+    "require": {}
+}
